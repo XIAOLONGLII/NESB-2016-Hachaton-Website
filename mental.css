@@ -1,0 +1,30 @@
+#email {
+    background-image: url("snow.GIF");
+    background-color: #cccccc;
+}
+
+body {
+    background-color: #000000;
+    margin: 0px;
+}
+#hello{
+    color:red;
+
+    
+}
+input:invalid{
+    border: solid red 1px;
+}
+table th, td{
+    border: 1px solid black;
+    
+}
+#hello1{
+    text-align: left;
+   padding-top: 10px;
+    background-color: pink;
+    font-size: 10px;
+    height: 400px;
+    width: 400px;
+
+}
